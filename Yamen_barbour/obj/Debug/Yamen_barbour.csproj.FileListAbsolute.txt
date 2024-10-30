@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\bin\Debug\Yamen_barbour.exe.config
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\bin\Debug\Yamen_barbour.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\bin\Debug\Yamen_barbour.pdb
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\obj\Debug\Yamen_barbour.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\obj\Debug\Yamen_barbour.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\obj\Debug\Yamen_barbour.exe
+C:\Users\DELL\Desktop\مجلد جديد (2)\Yamen_barbour\obj\Debug\Yamen_barbour.pdb
